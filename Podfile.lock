@@ -5,7 +5,7 @@ PODS:
   - Then (3.0.0)
 
 DEPENDENCIES:
-  - SnapKit (~> 5.0.0)
+  - SnapKit
   - SwiftFormat/CLI
   - SwiftLint
   - Then
@@ -23,6 +23,6 @@ SPEC CHECKSUMS:
   SwiftLint: c1de071d9d08c8aba837545f6254315bc900e211
   Then: 844265ae87834bbe1147d91d5d41a404da2ec27d
 
-PODFILE CHECKSUM: b8ff5b004e218fe8f134380054f7c126eb49a0cc
+PODFILE CHECKSUM: e917e7f4ab2ad1c0f96604d352b2c7cc55342cbd
 
 COCOAPODS: 1.10.0
